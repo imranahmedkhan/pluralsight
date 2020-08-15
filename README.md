@@ -3,7 +3,7 @@
 This repository houses course files for Pluralsight courses created by James Bannan.
 The courses are available [at Pluralsight](https://www.pluralsight.com/authors/james-bannan "Pluralsight").
 
-## Update: September 2019
+## Update: 1st September 2019
 
 I have added assets for the demos in the course <strong>Manage Kubernetes Infrastructure</strong>, which is part of the Azure DevOps Engineer Learning Path.
 
